@@ -1,1 +1,1 @@
-ECHO가 설정되어 있습니다.
+This is my second Java project :)
